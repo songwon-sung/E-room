@@ -1,5 +1,7 @@
 # EROOM
-![Frame 759](https://github.com/user-attachments/assets/111bbf35-bac3-465a-91c3-66c18f86dbb0)
+![Frame 759](https://github.com/user-attachments/assets/98ddaf5e-41d3-4c06-aabc-816496d722ff)
+
+## 🎯 프로젝트 목표
 
 
 ## 💻 소개
